@@ -72,12 +72,11 @@ Vouching is an essential system in Rexon, allowing users to **build credibility 
 - **Minimum accepted values:**  
   - **$1 USD**  
   - **₹90 INR**  
-  - **€1 EUR**  
-  - **£1 GBP**  
 
 ❌ **Not Accepted:**  
 - **Deals below $1 USD or equivalent**  
 - **"Gifted" or "Free" transactions**  
+- **Giveaway Vouches**
 
 🚨 **Vouches that do not meet the minimum requirement will be denied.**  
 
@@ -114,16 +113,6 @@ Vouching is an essential system in Rexon, allowing users to **build credibility 
 ### 🚨 **Punishment for Fake Vouches:**  
 1️⃣ **First offense:** Temporary vouch restriction.  
 2️⃣ **Second offense:** Permanent vouch restriction & server-wide blacklist.  
-
----
-
-## 🔹 Vouch Policy 1.5 - Editing or Deleting Vouches  
-
-- **Users are NOT allowed to edit or delete vouches once submitted.**  
-- If a mistake is made, **contact staff** instead of modifying or removing the vouch.  
-- **Suspicious vouch deletions may result in a ban from vouching.**  
-
----
 
 ## 🔹 Vouch Policy 1.6 - Disputes & Conflict Resolution  
 
